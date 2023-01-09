@@ -31,10 +31,13 @@
 - Apache Tomcat ver.9.0
  
 ## 💡 프로젝트에서 맡은 역할 
-* DB 설계
+* 부팀장 : DB 설계
 * 퍼블리싱
   - 로그인
   - 회원가입
 * 백엔드
   - 메인(배너, 게시글 목록) 구현
   - 게시글 작성, 수정, 삭제 구현
+
+## 📃 ERD
+![김로사_COSMOS_ERD](https://user-images.githubusercontent.com/109491202/211331420-9f482fc5-05c6-40a1-bbde-188712f61139.png)
